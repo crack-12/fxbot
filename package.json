@@ -1,5 +1,5 @@
 {
-  "name": "Felixcrack",
+  "name": "C1rackbot",
   "version": "1.0.0",
   "description": "HEHE :B",
   "main": "index.js",
@@ -45,12 +45,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fxmods/FX-v83"
+    "url": "git+https://github.com/crack-12/fxbot/edit/main/package.json"
   },
   "keywords": [
     "Wasu"
   ],
-  "author": "Felixcrack",
+  "author": "Cracbot",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Fxmods/FX-v83"
